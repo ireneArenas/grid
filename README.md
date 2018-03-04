@@ -1,2 +1,2 @@
-# grills
-Práctica para crear un tipo de grill con flexbox y bootstrap4. 
+# grills básico
+Práctica para crear un tipo de grill básico con flexbox, bootstrap4 y materialize.
