@@ -1,0 +1,15 @@
+.item1{
+    background-color: chartreuse;
+}
+
+.item2{
+    background-color: blueviolet;
+}
+
+.item3{
+    background-color: cadetblue;
+}
+
+.container > .row > div{
+    height: 500px;
+}
